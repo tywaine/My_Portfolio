@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository showcases my skills as a software devel
 
 ## About Me
 
-I am a Software Developer based in Jamaica, currently pursuing my studies at the University of the West Indies, Mona. I have a strong passion for programming and building innovative solutions. My core skills are in Java and Python, but I'm constantly learning new languages and frameworks to improve my craft. You can learn more about me and my journey in the **About** section of this portfolio.
+I am a student based in Jamaica, currently pursuing my studies at the University of the West Indies, Mona. I have a strong passion for programming and building innovative solutions. My core skills are in Java and Python, but I'm constantly learning new languages and frameworks to improve my craft. You can learn more about me and my journey in the **About** section of this portfolio.
 
 ## Projects
 
