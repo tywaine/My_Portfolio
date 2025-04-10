@@ -65,17 +65,24 @@ h2 {
 
 /* Projects Section */
 .projects {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
 }
 
 .project {
-    background: #f9f9f9;
+    background: #fff;
     padding: 1.5rem;
     border: 1px solid #ddd;
-    border-radius: 8px;
-    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-align: left;
+}
+
+.project:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
 }
 
 .project img {
